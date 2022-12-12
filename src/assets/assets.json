@@ -1,0 +1,22 @@
+{
+  "101273460": [
+    {
+      "label": "L1",
+      "assetId": "1-7674608590",
+      "type": "asset",
+      "data": "Node 0",
+      "icon": "pi pi-moon",
+      "selectable": true,
+      "leaf": true
+    },
+    {
+      "label": "L1",
+      "assetId": "1-7674608590",
+      "type": "asset",
+      "data": "Node 1",
+      "icon": "pi pi-moon",
+      "selectable": true,
+      "leaf": true
+    }
+  ]
+}

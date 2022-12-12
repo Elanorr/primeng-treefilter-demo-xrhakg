@@ -1,0 +1,49 @@
+{
+  "data": [
+    {
+      "label": "Poets And Pirates Cafe",
+      "accountNumber": "67242102701121",
+      "type": "account",
+      "phone": "(647) 780-5462",
+      "data": "Node 0",
+      "selectable": false,
+      "leaf": false
+    },
+    {
+      "label": "Rainbow Clean Air Systems",
+      "accountNumber": "04637432613060",
+      "type": "account",
+      "phone": "(705) 735-1233",
+      "data": "Node 1",
+      "selectable": false,
+      "leaf": false
+    },
+    {
+      "label": "Staging Hut & Decor",
+      "accountNumber": "88880001344922",
+      "type": "account",
+      "phone": "(647) 867-2656",
+      "data": "Node 2",
+      "selectable": false,
+      "leaf": false
+    },
+    {
+      "label": "Toronto Furnace Repair",
+      "accountNumber": "63631202701041",
+      "type": "account",
+      "phone": "(416) 825-2106",
+      "data": "Node 2",
+      "selectable": false,
+      "leaf": false
+    },
+    {
+      "label": "Athlete's Care",
+      "accountNumber": "88880001095220",
+      "type": "account",
+      "phone": "(416) 479-8698",
+      "data": "Node 2",
+      "selectable": false,
+      "leaf": false
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+<h3>Lenient Filter Mode</h3>
+<p-tree
+  [value]="files1"
+  [filter]="true"
+  selectionMode="checkbox"
+  [(selection)]="selectedFiles2"
+  (onNodeExpand)="nodeExpand($event)"
+  [loading]="loading"
+>
+
+  <ng-template let-node pTemplate="account">
+    <b>{{ node.label }}</b>
+    <br />
+    <span>{{ node.phone }}</span>
+  </ng-template>
+
+  <ng-template let-node pTemplate="merchant">
+    <b>{{ node.label }}</b>
+    <br />
+    <span>{{ node.adress }}</span>
+    <br />
+    <span>{{ node.phone }}</span>
+  </ng-template>
+  <ng-template let-node pTemplate="asset">
+    <b>{{ node.label }} - {{ node.assetId }}</b>
+  </ng-template>
+</p-tree>
