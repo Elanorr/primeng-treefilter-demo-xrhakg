@@ -11,6 +11,7 @@ import { NodeService } from './nodeservice';
 import { TreeModule } from 'primeng/tree';
 import { ToastModule } from 'primeng/toast';
 import { ButtonModule } from 'primeng/button';
+import { TabViewModule } from 'primeng/tabview';
 
 @NgModule({
   imports: [
@@ -21,6 +22,7 @@ import { ButtonModule } from 'primeng/button';
     ButtonModule,
     HttpClientModule,
     FormsModule,
+    TabViewModule,
     RouterModule.forRoot([{ path: '', component: AppComponent }]),
   ],
   declarations: [AppComponent],

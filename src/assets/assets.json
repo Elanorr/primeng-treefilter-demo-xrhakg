@@ -5,7 +5,7 @@
       "assetId": "1-7674608590",
       "type": "asset",
       "data": "Node 0",
-      "icon": "pi pi-moon",
+      "icon": "pi pi-box",
       "selectable": true,
       "leaf": true
     },
@@ -14,7 +14,7 @@
       "assetId": "1-7674608590",
       "type": "asset",
       "data": "Node 1",
-      "icon": "pi pi-moon",
+      "icon": "pi pi-box",
       "selectable": true,
       "leaf": true
     }
